@@ -1,5 +1,5 @@
 <?php 
-function PrintTable($tableName,$connect)
+function PrintTable($student,$connect)
 {
 
 	try {
